@@ -1,4 +1,4 @@
-# Exam #1: "Survey"
+# Project name: "Survey"
 
 ## Student: s281290 VITALI GIACOMO
 
